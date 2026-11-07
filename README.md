@@ -163,4 +163,5 @@ Stable releases use `vMAJOR.MINOR.PATCH` tags and GitHub release notes. Install 
 MIT. See [LICENSE](LICENSE).
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/israelsaba-llm-orchestration-skill-0tf030?v=6a5dfdfa32f8608f1bd9fc1025af8191)](https://m8ven.ai/mcp/israelsaba-llm-orchestration-skill-0tf030?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/israelsaba/llm-orchestration-skill)](https://m8ven.ai/mcp/israelsaba/llm-orchestration-skill?s=readme)
 
